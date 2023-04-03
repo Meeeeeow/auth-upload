@@ -1,1 +1,1 @@
-# auth-upload
+# this porject is using 2 user groupds- admin and user. Both have signin functionality. Both can upload files and delete them but cannot affect each others dashboard. Both can see what others have uploaded. Admin email is : admin@gmail.com and password is: Admin1234@
